@@ -1,6 +1,7 @@
-# GPL Software Source Code Distribution
+# Open Software Source Code Distribution
 
-This repository provides source code for GPL-licensed software components used in NVIDIA diagnostic tools, in compliance with GPL license requirements.
+This repository provides source code for licensed software components used in NVIDIA diagnostic tools, in compliance
+with OSS license requirements.
 
 ## Available Source Code
 
@@ -14,6 +15,6 @@ Each source code archive contains complete license documentation. Please refer t
 
 ## Purpose
 
-This repository exists solely to fulfill source code distribution requirements under the GPL.
+This repository exists solely to fulfill OSS source code distribution requirements.
 
 ---
